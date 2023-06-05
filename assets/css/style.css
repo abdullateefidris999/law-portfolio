@@ -355,8 +355,8 @@ h6 {
 --------------------------------------------------------------*/
 #hero {
   width: 100%;
-  height: 60vh;
-  background: url("../img/hero-bg.jpg") center center;
+  height: 80vh;
+  background: url("../img/court.jpg") center center;
   background-size: cover;
   position: relative;
   margin-top: 70px;
@@ -483,7 +483,7 @@ section {
 }
 
 /*--------------------------------------------------------------
-# What We Do
+# Wha3t We Do
 --------------------------------------------------------------*/
 .what-we-do .icon-box {
   text-align: center;
@@ -590,6 +590,20 @@ section {
 .about .icon-boxes p {
   font-size: 15px;
   color: #848484;
+}
+
+.about-custom{
+  padding: 10px 0;
+}
+
+.cl{
+  color: #3498db;
+  font-size: 22px;
+  padding-top: 20px;
+}
+
+.pdd{
+  padding-bottom:30px; 
 }
 
 /*--------------------------------------------------------------

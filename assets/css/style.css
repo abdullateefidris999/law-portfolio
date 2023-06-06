@@ -606,6 +606,10 @@ section {
   padding-bottom:30px; 
 }
 
+.about-us{
+
+}
+
 /*--------------------------------------------------------------
 # Skills
 --------------------------------------------------------------*/
@@ -957,7 +961,7 @@ section {
 --------------------------------------------------------------*/
 .testimonials .testimonials-carousel,
 .testimonials .testimonials-slider {
-  overflow: hidden;
+  /* overflow: hidden; */
 }
 
 .testimonials .testimonial-item {
@@ -976,6 +980,7 @@ section {
   border: 4px solid #fff;
   margin: 0 auto;
 }
+
 
 .testimonials .testimonial-item h3 {
   font-size: 18px;
@@ -1427,4 +1432,21 @@ section {
   background: #5faee3;
   color: #fff;
   text-decoration: none;
+}
+
+.newsletter{
+  font-size: small;
+  color: #3498db;
+}
+
+.email{
+  font-size:small;
+}
+
+.footer-contact{
+ color: #3498db;
+}
+
+.info{
+  padding-right: 10px;
 }
